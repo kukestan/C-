@@ -8,4 +8,4 @@
 
 在屏幕上输出以下图形
 
-![](.\pic\2-2.png)
+![](CPlusPlusTeen/book1/Chapter2/pic/2-2.png)
