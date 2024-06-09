@@ -7,4 +7,6 @@ int main(int argc, char** argv) {
 	
 	int b = 1000 - n * 50;
 	cout << b << endl;
+
+	return 0;
 }
