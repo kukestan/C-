@@ -3,12 +3,12 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-    int a;
-    cin >> a;
-    if(a > 0)
+    int n, s = 0;
+    cin >> n;
+    for(int i = 1; i <= n; i++)
     {
-        cout << "yes" << endl;
-        cout << a <<">0" << endl;
+        s = s + i;
     }
+    cout << s << endl;
     return 0;
 }
