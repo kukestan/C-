@@ -99,3 +99,13 @@ n(1≤n≤10000)棵苹果树，已知每棵树上的苹果个数，求一共有�
 输入n(n<10)，输出n行数字塔。
 
 ![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-XT-2.png)
+
+### 4-3-XT-3
+
+输入整数n和n个整数，求其中有多少个素数。
+
+例：输入 5
+
+​                2 6 9 7 10
+
+​        输出    2
