@@ -10,7 +10,7 @@
 
 在屏幕上输出以下图形
 
-![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter2/pic/2-2.png)
+![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter2/pic/2-1-2.png)
 
 ### 2-1-3
 
