@@ -70,10 +70,32 @@ n(1≤n≤10000)棵苹果树，已知每棵树上的苹果个数，求一共有�
 
 ![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-1.png)
 
-4-3-2
+### 4-3-2
 
-4-3-3
+输入整数n，输出由"*"组成的三角形。
 
-4-3-4
+![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-2.png)
 
-4-
+### 4-3-3
+
+输入整数n，输出数字三角形。
+
+![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-3.png)
+
+### 4-3-4
+
+输入整数n，输出九九乘法表的前n行。
+
+![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-4.png)
+
+### 4-3-XT-1
+
+输出倒星型阵。
+
+![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-XT-1.png)
+
+### 4-3-XT-2
+
+输入n(n<10)，输出n行数字塔。
+
+![](https://github.com/kukestan/CPlusPlusTeen/blob/master/book1/Chapter4/pic/4-3-XT-2.png)
