@@ -9,7 +9,7 @@ int main(int argc, char** argv)
         a = i / 100;
         b = i / 10 % 10;
         c = i % 10;
-        if(i == a * a *a + b * b * b + c * c *c)
+        if(i == a * a *a + b * b * b + c * c * c)
         {
             cout << i << endl;
         }
